@@ -38,4 +38,4 @@ PAST_PURCHASE - Total amount of past purchase from the same store
 
 Evaluation criteria:
 
-F1 score which is the harmonic mean of precision and recall. You are expected to predict using the data in the test.csv file and send the prediction in the format mentioned in sample_submission.csv.
+F1 score which is the harmonic mean of precision and recall. You are expected to predict using the data in the test.csv file.
